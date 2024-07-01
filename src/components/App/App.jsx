@@ -22,7 +22,7 @@ const dispatch = useDispatch();
   }, [dispatch]);
 
   return (
-    <div className="appContainer">
+    <div>
       <h1>Phonebook</h1>
       <ContactForm />
       <SearchBox />

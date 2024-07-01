@@ -8,6 +8,7 @@
   padding: 10px;
   border: 1px solid rgb(29, 29, 29);
   border-radius: 10px;
+  background-color: rgb(77, 74, 71);
 }
 
 .info {
@@ -28,18 +29,18 @@
   max-width: 150px;
   max-height: 50px;
   border-radius: 8px;
-  border: 1px solid rgb(29, 29, 29);
+  border: 1px solid rgb(99, 36, 36);
   padding: 0.6em 1.2em;
   color: rgb(29, 29, 29);
   font-size: 1em;
   font-weight: 500;
   font-family: inherit;
-  background-color: #c4c4c4;
+  background-color: #f45353;
   cursor: pointer;
   transition: border-color 0.25s;
 }
 
 .icon {
-  width: 20px;
-  height: 20px;
+  width: 14px;
+  height: 14px;
 }
